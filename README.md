@@ -1,4 +1,4 @@
-# LibreELEC for Berryboot
+# Converting LibreELEC for Berryboot
 This simple bash script convert LibreELEC OS image to Berryboot squashfs image.
 <h2>Usage</h2>
 In order to download the official OS image, you need to define the <code>URL</code> field. Then simply run the script as root.
